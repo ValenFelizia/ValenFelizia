@@ -1,14 +1,21 @@
+# Hi, I'm Valentín 👋
 
+I'm an Electronic Engineering student at the National University of Córdoba (FCEFyN) and currently working as an Intern at Renault Argentina. 
 
-"Hi, I'm Valentin, an engineering student trying out GitHub."
+My background is rooted in electronics and low-level programming, but during my time in the automotive industry, I discovered a strong passion for **Data Analytics and Process Automation**. I love taking complex data, analyzing it, and building clear, actionable dashboards that actually help people make better decisions.
 
-### 🚀 About Me
+### 🚀 What I'm currently working on:
+* **Data Analytics & Visualization:** Building dashboards and transforming data using Python (Pandas), Looker, and Excel (Power Query, Pivot Tables) to track quality and manufacturing metrics.
+* **Automation & AI:** Developing internal tools using PowerApps, Sharepoint, and Copilot Studio (creating AI agents for automated alerts and reporting).
+* **Embedded Systems:** Working on hardware-software integration projects using Arduino, motion sensors, and relays.
+* **Exploring:** Dipping my toes into modern Web Development (React, Next.js, Tailwind) by building side projects.
 
-- 🎓 Currently studying **Electronic Engineering** at **FCEFyN, National University of Córdoba**.
-- 💻 I'm interested in learning more about **microcontrollers** and improving my efficiency in **C programming**.
-- 🌱 Just starting out with **GitHub**, and eager to deepen my understanding of version control and collaboration in software development.
-- 🔧 Exploring the intersection of hardware and software, with a focus on **embedded systems**
+### 🛠️ Tech Stack & Tools
+* **Data & Analytics:** Python (Pandas), Looker, Power Query, Excel.
+* **Automation:** Power Platform (PowerApps), Copilot Studio.
+* **Hardware/Low-level:** C/C++, Microcontrollers, Arduino.
+* **Web & Version Control:** HTML/CSS basics, Next.js (Learning), Git/GitHub.
 
-### 📫 How to Reach Me
-
-- **Email**: valentinfelizia@gmail.com
+### 📫 Let's connect:
+* **Email:** valentinfelizia@gmail.com
+* **LinkedIn:** [www.linkedin.com/in/valentín-felizia-103059212]
