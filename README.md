@@ -2,20 +2,18 @@
 
 I'm an Electronic Engineering student at the National University of Córdoba (FCEFyN) and currently working as an Intern at Renault Argentina. 
 
-My background is rooted in electronics and low-level programming, but during my time in the automotive industry, I discovered a strong passion for **Data Analytics and Process Automation**. I love taking complex data, analyzing it, and building clear, actionable dashboards that actually help people make better decisions.
-
-### 🚀 What I'm currently working on:
+### Currently working on:
 * **Data Analytics & Visualization:** Building dashboards and transforming data using Python (Pandas), Looker, and Excel (Power Query, Pivot Tables) to track quality and manufacturing metrics.
 * **Automation & AI:** Developing internal tools using PowerApps, Sharepoint, and Copilot Studio (creating AI agents for automated alerts and reporting).
 * **Embedded Systems:** Working on hardware-software integration projects using Arduino, motion sensors, and relays.
 * **Exploring:** Dipping my toes into modern Web Development (React, Next.js, Tailwind) by building side projects.
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 * **Data & Analytics:** Python (Pandas), Looker, Power Query, Excel.
 * **Automation:** Power Platform (PowerApps), Copilot Studio.
 * **Hardware/Low-level:** C/C++, Microcontrollers, Arduino.
-* **Web & Version Control:** HTML/CSS basics, Next.js (Learning), Git/GitHub.
+* **Web Development:** HTML/CSS basics, Next.js (Learning).
 
-### 📫 Let's connect:
+### Contact:
 * **Email:** valentinfelizia@gmail.com
-* **LinkedIn:** [www.linkedin.com/in/valentín-felizia-103059212]
+* **LinkedIn:** www.linkedin.com/in/valentín-felizia-103059212
